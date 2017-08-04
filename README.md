@@ -30,6 +30,8 @@ The profile is contained in the file "ddmm.profile.uml". To use the profile, fol
 
 Additionally, the repository contains a profile-based, valid Papyrus model "testmodel.uml" partially taken from [1].
 
+For a comprehensive and more formal introduction of the profile, please refer to the preprint of our paper for the Workshop on Microservices: Science and Engineering (MSE) at https://mse-sefm17.fbk.eu/papers/paperMSE1.pdf.
+
 
 ### References
 1. Evans, E.: Domain-Driven Design. Addison-Wesley (2004)
